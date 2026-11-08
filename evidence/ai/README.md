@@ -42,9 +42,9 @@
 - 原始ZIP SHA-256：`9d8546b2ab652a82f00eb5bfd6ce6feecc1fea66e40957ce67aaf1d2c63ffbe1`
 - 原始视频 SHA-256：`a812e67e50ffee767f0237130162e3446cdbbe49239044e48a694c818166e361`
 - 逐项审计：`../../data/ai_trial3_output_audit.csv`
-- 清单：`B3_ARCHIVE_MANIFEST.md`
-- 对话摘录：`B3_CHAT_OUTPUT_TRANSCRIPT.md`
-- 二进制证据包：`B3_original_evidence_bundle.zip`
+- 清单：`B3/B3_ARCHIVE_MANIFEST.md`
+- 对话摘录：`B3/B3_CHAT_OUTPUT_TRANSCRIPT.md`
+- 二进制证据包：`B3/B3_original_evidence_bundle.zip`
 - 上传提交：`d64b442e9ed77213c523b22da449f17456e75b98`
 - 结论：0/10正确，10/10错误。
 
