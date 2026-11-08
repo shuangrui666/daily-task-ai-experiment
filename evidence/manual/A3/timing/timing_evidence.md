@@ -5,7 +5,7 @@
 - Experiment ID: A3
 - Experiment Group: Group A — Manual File Renaming
 - Evidence Type: Original stopwatch photograph
-- Evidence File: `A3_timing_evidence.png`
+- Evidence File: `A3.jpg`
 - Task: Manually rename the assigned batch of 10 files according to the predefined naming rules.
 
 ## 2. Recorded Duration
@@ -37,4 +37,4 @@ The previously recorded A3 duration was **360 seconds**. The original photograph
 
 ## 7. Evidence Integrity
 
-The original photograph is retained without changing the displayed timing value. The image should be uploaded under the filename `A3_timing_evidence.png`.
+The original photograph is retained without changing the displayed timing value. The image should be uploaded under the filename `A3.jpg`.
