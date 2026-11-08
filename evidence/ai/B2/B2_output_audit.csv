@@ -1,0 +1,11 @@
+archive_filename,date_field,category_field,topic_and_extension,date_valid,category_valid,overall_valid,audit_result,reason
+2026-10-17_英语_笔记.docx,2026-10-17,英语,笔记.docx,True,False,False,错误,类别字段“英语”不在允许值：作业/笔记/截图/资料
+2026-10-23_机器学习_笔记.txt,2026-10-23,机器学习,笔记.txt,True,False,False,错误,类别字段“机器学习”不在允许值：作业/笔记/截图/资料
+2026-10-22_课程_截图.png,2026-10-22,课程,截图.png,True,False,False,错误,类别字段“课程”不在允许值：作业/笔记/截图/资料
+2026-10-21_Python_笔记.md,2026-10-21,Python,笔记.md,True,False,False,错误,类别字段“Python”不在允许值：作业/笔记/截图/资料
+2026-10-15_Python_学习资料.pdf,2026-10-15,Python,学习资料.pdf,True,False,False,错误,类别字段“Python”不在允许值：作业/笔记/截图/资料
+2026-10-19_高数_作业.pdf,2026-10-19,高数,作业.pdf,True,False,False,错误,类别字段“高数”不在允许值：作业/笔记/截图/资料
+2026-10-16_课程表_截图.jpg,2026-10-16,课程表,截图.jpg,True,False,False,错误,类别字段“课程表”不在允许值：作业/笔记/截图/资料
+2026-10-24_数据库_作业.docx,2026-10-24,数据库,作业.docx,True,False,False,错误,类别字段“数据库”不在允许值：作业/笔记/截图/资料
+2026-10-20_数学_作业.docx,2026-10-20,数学,作业.docx,True,False,False,错误,类别字段“数学”不在允许值：作业/笔记/截图/资料
+2026-10-18_英语_资料.pdf,2026-10-18,英语,资料.pdf,True,False,False,错误,类别字段“英语”不在允许值：作业/笔记/截图/资料
