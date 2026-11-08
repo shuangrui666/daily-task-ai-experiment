@@ -4,35 +4,37 @@
 
 - Experiment ID: A3
 - Experiment Group: Group A — Manual File Renaming
-- Evidence Type: Original timing photograph
-- Evidence File: `A3_timing_evidence.jpg`
-- Task: Manually rename the fixed batch of 10 files according to the predefined naming rules.
+- Evidence Type: Original stopwatch photograph
+- Evidence File: `A3_timing_evidence.png`
+- Task: Manually rename the assigned batch of 10 files according to the predefined naming rules.
 
-## 2. Time Shown in the Original Evidence
+## 2. Recorded Duration
 
 - Stopwatch display: **00:06:00.28**
 - Converted duration: **360.28 seconds** (6 minutes, 0.28 seconds)
 
-This value is read directly from the supplied original photograph. It is not an estimate.
+This value is transcribed from the original photograph supplied for A3. It is not an estimate.
 
-## 3. Timing Scope
+## 3. Timing Procedure
 
-The experiment protocol defines the timed task as renaming all 10 files. The final filename quality inspection is separate and excluded from the timed duration.
+The photograph shows the file folder containing 10 items alongside the Windows stopwatch. The stopwatch appears stopped, with the play control visible, and displays 00:06:00.28.
 
-The photograph shows the stopwatch reading and the renamed-file list. It does not show the exact button press at the beginning or end of the timing interval; therefore, the start and stop actions cannot be independently verified from this still image alone.
+The experiment's stated timing rule is to time the manual renaming of all 10 files, excluding the separate final quality inspection. The photograph records the displayed result; it does not independently show the exact start and stop actions.
 
 ## 4. What This Evidence Supports
 
-The photograph supports that the stopwatch displayed 6 minutes, 0.28 seconds in the A3 experiment context, with the 10-file renamed list visible.
+The photograph supports that the stopwatch displayed **00:06:00.28** for the A3 timing record.
 
-## 5. Evidence Limitations and Data Reconciliation
+## 5. Evidence Limitations
 
-The previously recorded A3 duration was **360 seconds**. The original photograph provides a more precise reading of **360.28 seconds**. The existing whole-second value is consistent when rounded to the nearest second.
+This is a photograph of the stopwatch and file list, not a continuous screen recording. By itself, it cannot prove every intermediate renaming action, the exact moment timing began or ended, or the correctness of all 10 filenames.
 
-Before final analysis, decide whether the dataset will preserve hundredths of a second or consistently round all trial durations to whole seconds. Apply the same rule to all six trials.
+Filename correctness is documented separately in `A3_output_audit.csv`. The process video is supplementary evidence and should be considered alongside this photograph.
 
-The photograph alone does not establish the correctness of every filename or prove every intermediate renaming action. Refer to `A3_output_audit.csv` for the filename audit and the A3 process-video record for supplementary process evidence.
+## 6. Data Consistency Note
 
-## 6. Evidence Integrity
+The previously recorded A3 duration was **360 seconds**. The original photograph displays **360.28 seconds**, which is consistent with the previously recorded whole-second value when rounded to the nearest second.
 
-The supplied original photograph is intended to be archived without changing its displayed timing information. The image itself has not yet been committed as part of this text-file update.
+## 7. Evidence Integrity
+
+The original photograph is retained without changing the displayed timing value. The image should be uploaded under the filename `A3_timing_evidence.png`.
