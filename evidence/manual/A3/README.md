@@ -20,7 +20,8 @@
 
 ## 审核记录
 
-- `timing/timing_evidence.md`：A3原始计时照片说明；照片显示00:06:00.28（360.28秒），原始图片已归档为 `timing/A3.jpg`。\n- `A3_output_audit.csv`：逐文件审核结果
+- `timing/timing_evidence.md`：A3原始计时照片说明；照片显示00:06:00.28（360.28秒），原始图片已归档为 `timing/A3.jpg`。
+- `A3_output_audit.csv`：逐文件审核结果
 - `A3_ARCHIVE_MANIFEST.md`：文件清单、Git blob标识、审核结论及审核限制
 
 ## 过程证据
