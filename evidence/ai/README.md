@@ -44,8 +44,8 @@
 - `B1/B1_output_audit.csv`：ZIP内10个文件名逐项审计。
 
 ### 尚待入库的二进制原件
-- 原始MP4屏幕录制和原始ZIP需要作为二进制附件提交到本目录。
-- 不把视频提取帧冒充原始截图。
+- 原始MP4屏幕录制和原始ZIP已随 `B1_original_evidence_bundle.zip` 上传至本目录。
+- GitHub目录中的 `B1_original_evidence_bundle.zip` 为证据包；包内保留原始MP4、原始ZIP及派生参考帧。视频提取帧不冒充原始截图。
 
 ## 其他轮次
 
