@@ -1,0 +1,11 @@
+item,actual_zip_filename,date_field,category_field,topic_field,extension,category_valid,format_valid,result,reason
+1,2026-10-17_英语_笔记.docx,2026-10-17,英语,笔记,docx,false,false,incorrect,类别字段英语不在允许列表；主题与类别位置颠倒
+2,2026-10-23_机器学习_笔记.txt,2026-10-23,机器学习,笔记,txt,false,false,incorrect,类别字段机器学习不在允许列表；主题与类别位置颠倒
+3,2026-10-22_课程_课程截图.png,2026-10-22,课程,课程截图,png,false,false,incorrect,类别字段课程不在允许列表；应使用截图作为类别
+4,2026-10-21_Python_笔记.md,2026-10-21,Python,笔记,md,false,false,incorrect,类别字段Python不在允许列表；主题与类别位置颠倒
+5,2026-10-15_Python_学习资料.pdf,2026-10-15,Python,学习资料,pdf,false,false,incorrect,类别字段Python不在允许列表；主题应简洁且类别应为资料
+6,2026-10-19_高数_作业.pdf,2026-10-19,高数,作业,pdf,false,false,incorrect,类别字段高数不在允许列表；作业与主题位置颠倒
+7,2026-10-16_课程_课程表截图.jpg,2026-10-16,课程,课程表截图,jpg,false,false,incorrect,类别字段课程不在允许列表；应使用截图作为类别
+8,2026-10-24_数据库_作业.docx,2026-10-24,数据库,作业,docx,false,false,incorrect,类别字段数据库不在允许列表；作业与主题位置颠倒
+9,2026-10-20_数学_作业.docx,2026-10-20,数学,作业,docx,false,false,incorrect,类别字段数学不在允许列表；作业与主题位置颠倒
+10,2026-10-18_英语_资料.pdf,2026-10-18,英语,资料,pdf,false,false,incorrect,类别字段英语不在允许列表；资料与主题位置颠倒
