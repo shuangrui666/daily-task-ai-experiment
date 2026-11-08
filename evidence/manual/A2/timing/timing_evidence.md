@@ -33,7 +33,7 @@ Filename correctness is documented separately in `A2_output_audit.csv`. The proc
 
 ## 6. Data Consistency Note
 
-The previously recorded A2 duration in the experiment dataset was **422 seconds**. This photograph instead displays **442.20 seconds**. These values conflict. The original photograph is preserved as the primary timing evidence, and the experiment-wide statistics should not be treated as reconciled until the discrepancy is reviewed and the source record is corrected if appropriate.
+The earlier dataset entry of **422 seconds** was a transcription error. It has been corrected to **442.20 seconds** based on this original photograph. The corrected value is now used consistently in the experiment data table, group total, mean, comparison, README, experiment design, analysis report, and repository audit.
 
 ## 7. Evidence Integrity
 
