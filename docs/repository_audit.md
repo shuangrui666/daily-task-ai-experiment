@@ -51,7 +51,7 @@ B1、B2、B3均为0/10。原先“A组30/30正确、100%”“总体50/60正确�
 
 - B1原始ZIP SHA-256：`a347f2fc72d2e689893f6f5c0354418182afe941f12bc9fe78342d473e22725b`；审计CSV和清单见 `evidence/ai/B1/`。
 - B2原始ZIP SHA-256：`66e85993155e5fbc112661fd89071e7ac4216360dffb244998667fd5ad9b1291`；原始视频SHA-256：`d390e4f1d90dc7170c8fed2e2012a829835c955eb7911891f02879a88dc383a1`；审计CSV和清单见 `evidence/ai/B2/`。
-- B3原始ZIP SHA-256：`9d8546b2ab652a82f00eb5bfd6ce6feecc1fea66e40957ce67aaf1d2c63ffbe1`；原始视频SHA-256：`a812e67e50ffee767f0237130162e3446cdbbe49239044e48a694c818166e361`；审计CSV见 `evidence/ai/B3/B3_output_audit.csv`。
+- B3原始ZIP SHA-256：`9d8546b2ab652a82f00eb5bfd6ce6feecc1fea66e40957ce67aaf1d2c63ffbe1`；原始视频SHA-256：`a812e67e50ffee767f0237130162e3446cdbbe49239044e48a694c818166e361`；审计CSV见 `data/ai_trial3_output_audit.csv`。
 
 屏幕录制视频是原始过程影像；视频提取帧是派生参考图像，不是原始静态截图。聊天摘录依据可见材料整理，不冒充平台原生完整聊天导出。
 
