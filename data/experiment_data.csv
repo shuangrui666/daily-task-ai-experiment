@@ -1,7 +1,7 @@
 group,trial,time_seconds,time_display,checked,correct_count,incorrect_count,missing_count,accuracy_percent,verification_basis,notes
-manual,1,516,8分36秒,yes,10,0,0,100,experimenter_confirmation,实验者确认10个文件逐个检查后全部符合规则
-manual,2,422,7分02秒,yes,10,0,0,100,experimenter_confirmation,实验者确认10个文件逐个检查后全部符合规则
-manual,3,360,6分00秒,yes,10,0,0,100,experimenter_confirmation,实验者确认10个文件逐个检查后全部符合规则
-ai,1,289,4分49秒,yes,10,0,0,100,experimenter_confirmation,AI生成方案后由实验者手动重命名；按此前实验者逐项检查确认记录
-ai,2,196,3分16秒,yes,10,0,0,100,experimenter_confirmation,AI生成方案后由实验者手动重命名；按此前实验者逐项检查确认记录
-ai,3,122,2分02秒,yes,0,10,0,0,user_confirmed_zip_matches_ai_output,2026-11-08复核：用户确认ZIP内实际文件名与AI回复清单完全一致；10个名称均不符合规定的日期_类别_主题格式，详见ai_trial3_output_audit.csv
+manual,1,516,8分36秒,yes,10,0,0,100,experimenter_confirmation,实验者确认10个文件逐个检查后全部符合规则；该轮原始逐项证据未归档
+manual,2,422,7分02秒,yes,10,0,0,100,experimenter_confirmation,实验者确认10个文件逐个检查后全部符合规则；该轮原始逐项证据未归档
+manual,3,360,6分00秒,yes,10,0,0,100,experimenter_confirmation,实验者确认10个文件逐个检查后全部符合规则；该轮原始逐项证据未归档
+ai,1,289,4分49秒,yes,0,10,0,0,raw_zip_audit,B1（2026-10-24）原始ZIP逐项审计：0/10符合规则；289秒与日期/轮次的映射尚待原始计时记录再次确认
+ai,2,196,3分16秒,yes,0,10,0,0,raw_zip_audit,B2（2026-10-29）原始ZIP逐项审计：0/10符合规则；196秒与日期/轮次的映射尚待原始计时记录再次确认
+ai,3,122,2分02秒,yes,0,10,0,0,raw_zip_audit_and_user_confirmation,B3（2026-11-08）用户确认ZIP内文件名与AI回复清单一致；原始ZIP逐项审计0/10符合规则
