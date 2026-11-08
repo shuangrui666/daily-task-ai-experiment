@@ -15,7 +15,7 @@
 - 10个单独上传的最终结果文件
 - `A2_output_audit.csv`：10个文件的逐项命名审核结果
 - `A2_ARCHIVE_MANIFEST.md`：审核范围、方法、结果及证据限制
-- `video/A2_video_evidence.md`：A2实验过程视频的存储入口、用途及限制说明
+- `timing/timing_evidence.md`：A2原始计时照片说明；照片显示00:07:22.20（442.20秒）。原始图片文件待上传为 `timing/A2_timing_evidence.png`。\n- `video/A2_video_evidence.md`：A2实验过程视频的存储入口、用途及限制说明
 - A2视频文件：通过上述说明中的百度网盘分享链接访问（`A2.mp4`）
 
 ## 证据限制
