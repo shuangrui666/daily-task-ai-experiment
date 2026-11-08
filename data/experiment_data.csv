@@ -1,7 +1,7 @@
-group,trial,time_seconds,time_display,checked,notes
-manual,1,516,8分36秒,yes,实验者确认完成10个文件逐个检查；逐项正确数与错误数尚未单独记录
-manual,2,422,7分02秒,yes,实验者确认完成10个文件逐个检查；逐项正确数与错误数尚未单独记录
-manual,3,360,6分00秒,yes,实验者确认完成10个文件逐个检查；逐项正确数与错误数尚未单独记录
-ai,1,289,4分49秒,yes,AI生成命名方案后由实验者手动重命名；实验者确认完成10个文件逐个检查，逐项正确数与错误数尚未单独记录
-ai,2,196,3分16秒,yes,AI生成命名方案后由实验者手动重命名；实验者确认完成10个文件逐个检查，逐项正确数与错误数尚未单独记录
-ai,3,122,2分02秒,yes,AI生成命名方案后由实验者手动重命名；实验者确认完成10个文件逐个检查，逐项正确数与错误数尚未单独记录
+group,trial,time_seconds,time_display,checked,correct_count,incorrect_count,missing_count,accuracy_percent,verification_basis,notes
+manual,1,516,8分36秒,yes,10,0,0,100,experimenter_confirmation,实验者确认10个文件逐个检查后全部正确，无需修改
+manual,2,422,7分02秒,yes,10,0,0,100,experimenter_confirmation,实验者确认10个文件逐个检查后全部正确，无需修改
+manual,3,360,6分00秒,yes,10,0,0,100,experimenter_confirmation,实验者确认10个文件逐个检查后全部正确，无需修改
+ai,1,289,4分49秒,yes,10,0,0,100,experimenter_confirmation,AI生成命名方案后由实验者手动重命名；实验者确认10个文件逐个检查后全部正确，无需修改
+ai,2,196,3分16秒,yes,10,0,0,100,experimenter_confirmation,AI生成命名方案后由实验者手动重命名；实验者确认10个文件逐个检查后全部正确，无需修改
+ai,3,122,2分02秒,yes,10,0,0,100,experimenter_confirmation,AI生成命名方案后由实验者手动重命名；实验者确认10个文件逐个检查后全部正确，无需修改
