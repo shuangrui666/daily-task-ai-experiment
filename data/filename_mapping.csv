@@ -1,4 +1,4 @@
-index,original_filename,standard_target_filename,category,date,extension,verification_status,notes
+index,original_filename,target_filename,category,date,extension,verification_status,notes
 1,数学作业10月20日.docx,2026-10-20_作业_数学.docx,作业,2026-10-20,.docx,reference_standard,标准命名参考，不代表六轮实际文件名均已独立核验
 2,Python笔记_2026.10.21.md,2026-10-21_笔记_Python.md,笔记,2026-10-21,.md,reference_standard,标准命名参考，不代表六轮实际文件名均已独立核验
 3,IMG_20261022_课程截图.png,2026-10-22_截图_课程.png,截图,2026-10-22,.png,reference_standard,标准命名参考，不代表六轮实际文件名均已独立核验
