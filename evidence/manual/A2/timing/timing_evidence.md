@@ -5,7 +5,7 @@
 - Experiment ID: A2
 - Experiment Group: Group A — Manual File Renaming
 - Evidence Type: Original stopwatch photograph
-- Evidence File: `A2_timing_evidence.png`
+- Evidence File: `A2.jpg`
 - Task: Manually rename the assigned batch of 10 files according to the predefined naming rules.
 
 ## 2. Recorded Duration
@@ -37,4 +37,4 @@ The earlier dataset entry of **422 seconds** was a transcription error. It has b
 
 ## 7. Evidence Integrity
 
-The original photograph is retained without changing the displayed timing value. The image should be uploaded under the filename `A2_timing_evidence.png`.
+The original photograph is retained without changing the displayed timing value. The image should be uploaded under the filename `A2.jpg`.
