@@ -23,4 +23,4 @@
 
 ## 文件归档状态
 
-正确照片现已由用户上传至本目录：[B2_timing_photo.jpg.jpg](./B2_timing_photo.jpg.jpg)。GitHub 实际显示的文件名带有重复的 `.jpg` 后缀，但文件已存在于仓库。请勿将此前误传的照片作为B2计时证据。
+正确照片现已由用户上传至本目录：[B2_timing_photo.jpg](./B2_timing_photo.jpg)。GitHub 实际显示的文件名带有重复的 `.jpg` 后缀，但文件已存在于仓库。请勿将此前误传的照片作为B2计时证据。
