@@ -91,7 +91,17 @@ A组本次统计是对GitHub目录中30个最终结果文件名按既定映射�
 - [x] 同步README、实验设计、数据表、分析报告和审查记录
 - [ ] 补充A组实验当时的过程证据和原始计时材料（如仍可取得）
 - [x] 根据计时照片确认B组第1、2轮耗时与日期的对应关系
+- [x] 建立人机校验规则与执行清单（`docs/verification/validation_rules.md`）
+- [x] 建立A组与AI组真实错误案例库（`docs/verification/ai_error_cases.md`）
 
-## 6. 数据诚信说明
+## 6. 人机校验交付
+
+- 校验规则：[`docs/verification/validation_rules.md`](docs/verification/validation_rules.md)
+- 真实错误案例：[`docs/verification/ai_error_cases.md`](docs/verification/ai_error_cases.md)
+- 校验规则区分机器可执行检查与人工语义复核，并明确原始错误结果不得覆盖。
+- 错误案例按文件计数：A组2个错误文件，B组30个错误文件，共32个；同一文件违反多条规则仍只计为一个错误文件。
+- 规则文档是交付时制定的复核规范，不代表这些规则已在原始六轮实验中全部执行。
+
+## 7. 数据诚信说明
 
 耗时与正确性是不同指标。A组最终结果文件名审核为28/30；B组原始ZIP审计为0/30。A组的审核范围是GitHub最终结果文件名与标准映射，不包括文件内容及全过程；B组则以原始ZIP内部文件名为主要判定依据。两组均保留错误结果，不在事后修改原始实验输出。未取得的证据不标记为已完成。
