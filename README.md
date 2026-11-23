@@ -65,7 +65,10 @@ A组本次统计是对GitHub目录中30个最终结果文件名按既定映射�
 ├── docs/
 │   ├── experiment_design.md
 │   ├── ai_prompt.md
-│   └── repository_audit.md
+│   ├── repository_audit.md
+│   └── verification/
+│       ├── validation_rules.md
+│       └── ai_error_cases.md
 ├── evidence/
 │   ├── manual/
 │   │   ├── A1/
