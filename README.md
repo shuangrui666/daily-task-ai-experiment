@@ -66,9 +66,13 @@ A组本次统计是对GitHub目录中30个最终结果文件名按既定映射�
 │   ├── experiment_design.md
 │   ├── timing_method.md
 │   ├── ai_prompt.md
+│   ├── timing_method.md
 │   ├── repository_audit.md
+│   ├── analysis/
+│   │   └── prompt_failure_analysis.md
 │   └── verification/
 │       ├── validation_rules.md
+│       ├── validation_execution_record.md
 │       └── ai_error_cases.md
 ├── evidence/
 │   ├── manual/
@@ -103,6 +107,7 @@ A组本次统计是对GitHub目录中30个最终结果文件名按既定映射�
 
 - 实验设计与操作流程：[`docs/experiment_design.md`](docs/experiment_design.md)
 - 计时口径：[`docs/timing_method.md`](docs/timing_method.md)
+- Prompt失败原因分析：[`docs/analysis/prompt_failure_analysis.md`](docs/analysis/prompt_failure_analysis.md)
 - AI Prompt 与执行流程说明：[`docs/ai_prompt.md`](docs/ai_prompt.md)（区分现存模板与逐轮原始Prompt证据）
 - 原始实验数据与标准映射：[`data/experiment_data.csv`](data/experiment_data.csv)、[`data/filename_mapping.csv`](data/filename_mapping.csv)
 - 实验分析报告：[`reports/experiment_analysis.md`](reports/experiment_analysis.md)
@@ -111,6 +116,7 @@ A组本次统计是对GitHub目录中30个最终结果文件名按既定映射�
 ## 7. 人机校验交付
 
 - 校验规则：[`docs/verification/validation_rules.md`](docs/verification/validation_rules.md)
+- 历史结果回顾性校验记录：[`docs/verification/validation_execution_record.md`](docs/verification/validation_execution_record.md)
 - 真实错误案例：[`docs/verification/ai_error_cases.md`](docs/verification/ai_error_cases.md)
 - 校验规则区分机器可执行检查与人工语义复核，并明确原始错误结果不得覆盖。
 - 错误案例按文件计数：A组2个错误文件，B组30个错误文件，共32个；同一文件违反多条规则仍只计为一个错误文件。
