@@ -107,6 +107,7 @@ A组本次统计是对GitHub目录中30个最终结果文件名按既定映射�
 - 实验设计与操作流程：[`docs/experiment_design.md`](docs/experiment_design.md)
 - 计时口径：[`docs/timing_method.md`](docs/timing_method.md)
 - Prompt失败原因分析：[`docs/analysis/prompt_failure_analysis.md`](docs/analysis/prompt_failure_analysis.md)
+- B组原始Prompt归档核查：[`docs/analysis/prompt_archive_status.md`](docs/analysis/prompt_archive_status.md)
 - AI Prompt 与执行流程说明：[`docs/ai_prompt.md`](docs/ai_prompt.md)（区分现存模板与逐轮原始Prompt证据）
 - 原始实验数据与标准映射：[`data/experiment_data.csv`](data/experiment_data.csv)、[`data/filename_mapping.csv`](data/filename_mapping.csv)
 - 实验分析报告：[`reports/experiment_analysis.md`](reports/experiment_analysis.md)
