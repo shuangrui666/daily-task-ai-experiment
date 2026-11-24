@@ -66,7 +66,6 @@ A组本次统计是对GitHub目录中30个最终结果文件名按既定映射�
 │   ├── experiment_design.md
 │   ├── timing_method.md
 │   ├── ai_prompt.md
-│   ├── timing_method.md
 │   ├── repository_audit.md
 │   ├── analysis/
 │   │   └── prompt_failure_analysis.md
@@ -111,6 +110,7 @@ A组本次统计是对GitHub目录中30个最终结果文件名按既定映射�
 - AI Prompt 与执行流程说明：[`docs/ai_prompt.md`](docs/ai_prompt.md)（区分现存模板与逐轮原始Prompt证据）
 - 原始实验数据与标准映射：[`data/experiment_data.csv`](data/experiment_data.csv)、[`data/filename_mapping.csv`](data/filename_mapping.csv)
 - 实验分析报告：[`reports/experiment_analysis.md`](reports/experiment_analysis.md)
+- 人工组A1–A3过程视频、计时照片与审核记录索引：[`evidence/manual/README.md`](evidence/manual/README.md)
 - 仓库审查记录：[`docs/repository_audit.md`](docs/repository_audit.md)
 
 ## 7. 人机校验交付
