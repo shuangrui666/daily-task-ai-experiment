@@ -114,7 +114,11 @@ A组本次统计是对GitHub目录中30个最终结果文件名按既定映射�
 - 人工组A1–A3过程视频、计时照片与审核记录索引：[`evidence/manual/README.md`](evidence/manual/README.md)
 - 仓库审查记录：[`docs/repository_audit.md`](docs/repository_audit.md)
 
-## 7. 人机校验交付
+## 7. 最终提交验收
+
+- 最终提交清单：[`docs/final_submission_checklist.md`](docs/final_submission_checklist.md)，逐项对应教师要求、材料位置及证据限制。
+
+## 8. 人机校验交付
 
 - 校验规则：[`docs/verification/validation_rules.md`](docs/verification/validation_rules.md)
 - 历史结果回顾性校验记录：[`docs/verification/validation_execution_record.md`](docs/verification/validation_execution_record.md)
